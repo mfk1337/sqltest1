@@ -17,7 +17,7 @@ include('includes/config.php');
 
 <body>
 
-
+<h1>joshcam/PHP-MySQLi-Database-Class Test</h1>
 
 <?
 if($_GET['rediger'])
